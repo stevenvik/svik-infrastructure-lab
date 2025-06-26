@@ -108,7 +108,7 @@ Professional Infrastructure Architecture Leader platform featuring **3-node Prox
 
 ### Professional Engagement
 - **GitHub Profile:** Professional technical portfolio and project showcase
-- **Portfolio Website:** https://stevenvik.tech (comprehensive professional presence)
+- **Portfolio Website:** https://stevenjvik.tech (comprehensive professional presence)
 - **Professional Focus:** Infrastructure Security Expert | Advanced Cybersecurity Homelab
 - **Geographic Location:** Seattle, Washington metropolitan area
 
